@@ -46,9 +46,9 @@ public class Main {
 [002 Hello world - First Program - An introduction to Java Programming Language](https://www.youtube.com/watch?v=MyvbP0xzhlc&list=PLLqjNYIgOqeRLg5uGikvSZYNN_m_qaYls)
 
 
-### 003 Hello World?
+### 003 String
 
-An thing in double quotes is string
+Any thing in double quotes is a string
 ```
 "Hi"
 "Hello"
