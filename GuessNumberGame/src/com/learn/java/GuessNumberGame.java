@@ -2,6 +2,12 @@ package com.learn.java;
 
 import java.util.Random;
 import java.util.Scanner;
+/**
+ * Introduction to Java Programming:
+ *
+ * video: https://www.youtube.com/watch?v=guLcKhXD8l8&list=PLLqjNYIgOqeSmeb7_KNIfPQ41rMm069qB&index=1
+ */
+
 
 /*
 In this guess number game, the system will generate a random number 1 to 10.
@@ -29,6 +35,7 @@ Display the number of wins and lost games
 win: 3 and lost: 2
  */
 public class GuessNumberGame {
+
     public static void main(String[] args) {
         Random rand = new Random();
         Scanner input = new Scanner(System.in);
